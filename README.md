@@ -23,17 +23,17 @@ winner.
 
 ● A round consists of the following:
 
-    A. Each player puts into play the top card of their deck face up.
-    B. The player with the face up card of the highest rank wins all the cards in play,
-    and places them at the bottom of their deck in any order. This concludes the
-    round.
-    C. If two or more players have equal highest-rank face up cards, those players put
-    into play three cards from the top of their decks face down, then repeat steps A
-    and B above. If two or more players have equal highest-rank face up cards
-    again, repeat step C as many times as needed for the round to conclude.
-    D. If any player would run out of cards in the middle of a round, then that player
-    plays their last card face up, and that card serves as the player’s face up card
-    for the remainder of the round.
+A. Each player puts into play the top card of their deck face up.
+B. The player with the face up card of the highest rank wins all the cards in play,
+and places them at the bottom of their deck in any order. This concludes the
+round.
+C. If two or more players have equal highest-rank face up cards, those players put
+into play three cards from the top of their decks face down, then repeat steps A
+and B above. If two or more players have equal highest-rank face up cards
+again, repeat step C as many times as needed for the round to conclude.
+D. If any player would run out of cards in the middle of a round, then that player
+plays their last card face up, and that card serves as the player’s face up card
+for the remainder of the round.
     
 ● An ace is treated as the highest rank card (followed by king, queen, jack, 10, 9, etc.)
 
