@@ -9,15 +9,20 @@ War Card app is a backend command lines to run the War Card game.
 War Card is a game which expect two or four players. The game will keep getting rounds between players till one of them has 52 cards.
 
 The game rules:
+
 ● A standard 52-card playing card deck is divided evenly amongst two or four
 players. (Each player’s deck is 26 cards for a two-player game, 13 cards for a fourplayer
 game, etc.)
+
 ● Players go through their decks in a series of rounds until one player has all 52
 cards, at which point the game ends and the player with all the cards is the winner.
+
 ● If there are more than two players, then a player can be eliminated if they run out of
 cards. The game continues as usual with the remaining players until there is a
 winner.
+
 ● A round consists of the following:
+
     A. Each player puts into play the top card of their deck face up.
     B. The player with the face up card of the highest rank wins all the cards in play,
     and places them at the bottom of their deck in any order. This concludes the
@@ -29,7 +34,9 @@ winner.
     D. If any player would run out of cards in the middle of a round, then that player
     plays their last card face up, and that card serves as the player’s face up card
     for the remainder of the round.
+    
 ● An ace is treated as the highest rank card (followed by king, queen, jack, 10, 9, etc.)
+
 ● Suits (hearts, diamonds, spades, clubs) are not relevant to the game.
 
 # About the code
